@@ -49,6 +49,8 @@ pandas, numpy, matplotlib, seaborn, scikit-learn
 pip install pandas numpy matplotlib seaborn scikit-learn
 📥 Load the Data
 Download or upload the dataset (continuous dataset.csv)
+This project uses the dataset Electricity Load Forecasting from Kaggle.
+
 
 Make sure it includes a column named datetime in date-time format
 
